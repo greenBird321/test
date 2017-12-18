@@ -1,0 +1,29 @@
+xianshang_2001:
+  host : phsen.ctp5xrhhqy3i.us-east-1.rds.amazonaws.com
+  username : phsenmaster
+  password : UXdujYyLgHJ8wNiR5LOLDoU7T,
+  port : 3306
+  database : en_2001_game
+
+setting:
+  timezone : Asia/Taipei
+  callback_pay : http://100007.fl.xinruihuyu.top/callback/payment
+  secret_key : rzFhMvttMSz8Tdh2
+  target  : TW
+  TW_gm_server : 13.112.247.62:8130
+  #TW_gm_server : 52.202.53.189:8130
+3002:
+  adapter : mysql
+  host    : 192.168.1.111
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : tw_1000_game
+  charset : utf8
+  port    : 3306
+
+gaccount_dbName:
+  name  : tw_gaccount
+
+db_prefix:
+  prefix : tw_

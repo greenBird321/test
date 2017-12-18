@@ -1,0 +1,25 @@
+#线上正事服务器 api.gamehetu.com 中寻找
+100003_1 :
+  host     : ft-zuie.cqziizk5ubis.ap-northeast-1.rds.amazonaws.com
+  username : zuie_web_r
+  password : americawww&iolhjljiAnIUqy
+  port     : 3306
+  database : game_ftht_s1
+
+
+#线下测试服务器
+setting:
+  timezone : Asia/Taipei
+  callback_pay : http://52.196.121.113/TW_WEB
+  secret_key : 8G8jhRr865SjnNxz
+
+
+1 :
+  adapter : mysql
+  host    : 192.168.1.114
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : game_cos
+  charset : utf8
+  port    : 3306

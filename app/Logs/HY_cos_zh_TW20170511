@@ -1,0 +1,2 @@
+[2017-05-11 06:03:46+0000] logger.ERROR: purchase error {"transaction":"274028","gateway":"Paypal","amount":"1.52","currency":"USD","product_id":"551","user_id":"1-1001304"} []
+[2017-05-11 06:04:14+0000] logger.ERROR: purchase error {"transaction":"274028","gateway":"Paypal","amount":"1.52","currency":"USD","product_id":"551","user_id":"1-1001304"} []

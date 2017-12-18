@@ -1,0 +1,14 @@
+setting:
+  timezone : Asia/Taipei
+  callback_pay : http://54.65.105.176/TW_MC
+  secret_key : 8G8jhRr865SjnNxz
+
+1 :
+  adapter : mysql
+  host    : 192.168.1.114
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : game_god
+  charset : utf8
+  port    : 3306

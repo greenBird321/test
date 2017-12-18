@@ -1,0 +1,8 @@
+[2017-05-09 07:28:18+0000] logger.ERROR: purchase error - no product {"transaction":null,"gateway":null,"amount":null,"product_id":null,"user_id":"1-100001"} []
+[2017-05-09 07:55:11+0000] logger.ERROR: purchase error - no product {"transaction":null,"gateway":null,"amount":null,"product_id":null,"user_id":"1-100001"} []
+[2017-05-09 07:58:39+0000] logger.ERROR: purchase error - no product {"transaction":null,"gateway":null,"amount":null,"product_id":null,"user_id":"1-100001"} []
+[2017-05-09 08:10:09+0000] logger.ERROR: purchase error - transaction exist {"transaction":"1","gateway":"Google","amount":"0.99","product_id":"1","user_id":"1-100001"} []
+[2017-05-09 08:10:44+0000] logger.ERROR: purchase error - transaction exist {"transaction":"1","gateway":"Google","amount":"0.99","product_id":"1","user_id":"1-100001"} []
+[2017-05-09 08:11:05+0000] logger.ERROR: purchase error - transaction exist {"transaction":"1","gateway":"Google","amount":"0.99","product_id":"1","user_id":"1-100001"} []
+[2017-05-09 08:14:11+0000] logger.ERROR: purchase error - transaction exist {"transaction":"1","gateway":"Google","amount":"0.99","product_id":"1","user_id":"1-100001"} []
+[2017-05-09 08:14:40+0000] logger.ERROR: purchase error - transaction exist {"transaction":"1","gateway":"Google","amount":"0.99","product_id":"1","user_id":"1-100001"} []

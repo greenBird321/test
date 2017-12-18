@@ -1,0 +1,24 @@
+101001_3001:
+  adapter : mysql
+  host    : moshi.cqziizk5ubis.ap-northeast-1.rds.amazonaws.com
+  user    : MoShi
+  pass    : MnHYjdyShvPYohadxNKom4BQp2pwRRMF
+  port    : 3306
+  db      : clash_user_1
+  charset : utf8
+  port    : 3306
+
+setting:
+  timezone: Asia/Taipei
+  callback_pay : http://101001.client.gamehetu.com/order/complete/hetu
+  secret_key : 5EUHM4s8rTLUn2MR
+
+1:
+  adapter : mysql
+  host    : 192.168.1.114
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : game_clash
+  charset : utf8
+  port    : 3306

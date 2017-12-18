@@ -1,0 +1,15 @@
+#区服配置
+setting:
+  timezone : America/New_York
+  callback_pay : http://52.203.5.113/TW_WEB
+  secret_key : 8G8jhRr865SjnNxz
+
+1:
+    adapter : mysql
+    host    : 192.168.1.192
+    user    : root
+    pass    : root
+    port    : 3306
+    db      : game_cos
+    charset : utf8
+    port    : 3306

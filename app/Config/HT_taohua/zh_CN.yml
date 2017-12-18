@@ -1,0 +1,66 @@
+setting:
+  sandbox     : true
+  request_log : false
+  timezone    : UTC
+  sql_log     : true
+  secret_key  : 
+  default     :  1021014|taohua|CN
+
+
+ip_allow:
+    127.0.0.1,192.168.1.1
+
+
+zone_list:
+    adapter     : mysql
+    host        : 192.168.1.129
+    user        : root
+    pass        : root
+    db          : HT_taohua
+    charset     : utf8mb4
+    port        : 3306
+
+103001:
+  adapter : mysql
+  host    : 192.168.1.129
+  port    : 3306
+  user    : root
+  pass    : root
+  db      : ssss_Game_bate
+  charset : utf8mb4
+
+103002:
+  adapter : mysql
+  host    : 192.168.1.129
+  port    : 3306
+  user    : root
+  pass    : root
+  db      : ssss_Game_bate2
+  charset : utf8mb4
+
+103003:
+  adapter : mysql
+  host    : 192.168.1.129
+  port    : 3306
+  user    : root
+  pass    : root
+  db      : ssss_Game_bate3
+  charset : utf8mb4
+
+103004:
+  adapter : mysql
+  host    : 192.168.1.129
+  port    : 3306
+  user    : root
+  pass    : root
+  db      : ssss_Game_bate4
+  charset : utf8mb4
+
+103005:
+  adapter : mysql
+  host    : 192.168.1.129
+  port    : 3306
+  user    : root
+  pass    : root
+  db      : ssss_Game_bate5
+  charset : utf8mb

@@ -1,0 +1,14 @@
+setting:
+  timezone : America/New_York
+  callbacl_pay : http://america8.client.gamehetu.com/order/complete/hetu
+  secret_key : 3e5AvpaBsGhNRQ3U
+
+1:
+  adapter : mysql
+  host    : 192.168.1.192
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : game_bio
+  charset : utf8
+  port    : 3306

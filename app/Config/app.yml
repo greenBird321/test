@@ -1,0 +1,24 @@
+setting:
+  sandbox     : false
+  request_log : false
+  timezone    : UTC
+  secret_key  : xxxxxxxxxxxxxxxx
+  default     : 1021014|HT_taohua|zh_CN
+
+db_data:
+  adapter     : mysql
+  host        : 192.168.1.129
+  user        : root
+  pass        : root
+  db          : rpc
+  port        : 3306
+  charset     : utf8mb4
+
+db_logs:
+  adapter   :
+  host      :
+  port      :
+  user      :
+  pass      :
+  db        :
+  charset   :

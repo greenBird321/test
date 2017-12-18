@@ -1,0 +1,14 @@
+setting:
+  timezone : UTC/GMT -4
+  callback_pay : http://52.70.20.178:7000/pay/hetu_en/1
+  secret_key : INJOYs%ZW4r5)%(nMHDs$SriGSrnm@!3
+
+1 :
+  adapter : mysql
+  host    : 192.168.1.175
+  user    : root
+  pass    : root
+  port    : 3306
+  db      : game_evile
+  charset : utf8
+  port    : 3306

@@ -1,0 +1,1 @@
+[2017-05-31 02:04:01+0000] logger.ERROR: purchase error {"transaction":"302763","gateway":"Google","amount":"0.99","currency":"USD","product_id":"sj.lod.tg.01","user_id":"3002-41972"} []
